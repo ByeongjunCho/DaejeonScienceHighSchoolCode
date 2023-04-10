@@ -1,4 +1,6 @@
-# 대전과학고 학습을 위한 기초코드 제공
+# 대전과학고 심화자율연구를 위한 기초코드
+
+## 2021
 
 1. modeling_bert_method1.py
 
@@ -17,4 +19,6 @@
    * 6월 3일 발표자료 참고
 
      ![img](https://blog.kakaocdn.net/dn/T33yE/btrvaJbjPFk/C4hJp2a4SGMD1KxlteR9q0/img.png)
+
+## 2022
 
