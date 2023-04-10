@@ -22,3 +22,9 @@
 
 ## 2022
 
+[lstm_example.ipynb](https://github.com/ByeongjunCho/DaejeonScienceHighSchoolCode/blob/main/2022/lstm_example.ipynb) : LSTM 주식 예측 모델
+
+[seq2seq_stock-5.ipynb](https://github.com/ByeongjunCho/DaejeonScienceHighSchoolCode/blob/main/2022/seq2seq_stock-5.ipynb) : Seq2seq model 주식 예측 모델 예제
+
+[Transformer_Stock_NoneStationality.ipynb](https://github.com/ByeongjunCho/DaejeonScienceHighSchoolCode/blob/main/2022/Transformer_Stock_NoneStationality.ipynb) : 주식에서 사용되는 다양한 indicator를 이용한 예제. Transformer encoder + Linear layer 로 구성. Pretrained transformer 는 text로 pretrained 되어 있으므로 시계열 모델에 pretrained model 사용이 적합하지 않음
+
